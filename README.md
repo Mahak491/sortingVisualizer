@@ -7,4 +7,4 @@ which sort the randomly generated array.
 
  
  
- Sorting Visualizer Website => https://visualizerrrsorting.netlify.app/
+ Sorting Visualizer Website => https://sortttingvisualizerrr.netlify.app/
